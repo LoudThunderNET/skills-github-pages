@@ -1,0 +1,4 @@
+---
+title: "The first post"
+date: 2026-10-07
+---
